@@ -2,7 +2,7 @@
  * @Author: lxj 1851816672@qq.com
  * @Date: 2023-07-13 14:38:56
  * @LastEditors: lxj 1851816672@qq.com
- * @LastEditTime: 2024-04-20 04:04:33
+ * @LastEditTime: 2024-04-20 04:11:02
  * @FilePath: /defi/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -21,7 +21,9 @@ Next.js, on the other hand, is a React framework that simplifies the process of 
 To get started with this project, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
+```bash
 git clone https://github.com/your-username/web3-learning-next.git
+```
 
 2. **Install Dependencies:** Navigate to the project directory and install the dependencies by running:
 ```bash
